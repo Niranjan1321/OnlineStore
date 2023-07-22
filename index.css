@@ -51,19 +51,8 @@ body {
         height: 150px;
     }
 
-    #displayData>div{
-        height: 500pxpx;
-    }
-
-    #formdiv>div{
-        width: 800px;
-        height: 800px;
-        margin: 0px;
-    }
-
     #formBox{
-        width: 50%;
-        margin: 0px;
+        width: 75%;
     }
 
     #formBox>input{
