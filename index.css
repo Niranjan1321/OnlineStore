@@ -40,7 +40,7 @@ body{
     padding: 10px;
 }
 
-@media (min-width : 500px){
+@media (max-width : 500px){
     #displayData{
         grid-template-columns: repeat(1, 1fr);
     }
