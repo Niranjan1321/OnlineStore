@@ -43,6 +43,20 @@ body{
 @media (max-width : 500px){
     #displayData{
         grid-template-columns: repeat(1, 1fr);
+        height: 150px;
+    }
+
+    #formdiv{
+        margin: 0px;
+        height: 400px;
+        width: 90%;
+    }
+    #formBox{
+
+        margin: 0px;
+
+        width: 100%;
+        margin: 0px;
     }
 }
 
